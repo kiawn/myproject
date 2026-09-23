@@ -5,4 +5,7 @@ Through this exercise, I learned how to fork projects, contribute to them, and w
 
 [**Day 2 - Exercise 3**](https://coderefinery.github.io/git-intro/sharing/#exercise)
 
+I created [this repository](https://github.com/kiawn/myproject.git) and stored the documents requested for the certificate. It includes 3 documents: exercises, Questions, and reflections. 
+Today, I practiced working with a local directory and learned tools to explore a Git repository.
+
 **Day 3**
