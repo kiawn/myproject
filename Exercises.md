@@ -8,4 +8,6 @@ Through this exercise, I learned how to fork projects, contribute to them, and w
 I created [this repository](https://github.com/kiawn/myproject.git) and stored the documents requested for the certificate. It includes 3 documents: exercises, Questions, and reflections. 
 Today, I practiced working with a local directory and learned tools to explore a Git repository.
 
-**Day 3**
+[**Day 3 - Exercise 1**](https://coderefinery.github.io/git-collaborative/same-repository/#exercise)
+
+I sent the [pull request](https://github.com/cr-workshop-exercises/centralized-workflow-exercise/pull/15) to the main branch to add a potato salad recipe. I first created an issue, then a branch to address the issue, and after committing changes, I sent the request. I also reviewed pull requests from other people and merged their contributions.
