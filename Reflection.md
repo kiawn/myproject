@@ -10,8 +10,13 @@ Today, the essentials of working on a local repository were covered. git command
 
 The important things that we learnt today were the practical ways of collaborating with developers. Developing a complicated program is first a communication activity. Colleagues need to be informed early about the upcoming changes and plan their tasks accordingly. Giving and receiving feedback are essential skills that we need to learn and implement throughout a project. After today's session, I became motivated to collaborate on some open-source projects that I already use but have never contributed to.
 
-Day4
+**Day4**
 
-Day5
+Today I have learnt how to ensure reproducibility in our research. It is a very critical issue, especially for researchers who need to change a program frequently and analyze results. Some advice was given on how to organize a project folder and use tools like Snakemake to automate the result-generation process. It is especially helpful when using a complex, high-fidelity toolchain to determine which cases require running the program. Dependency management was another familiar topic that was addressed in this lesson. It is crucial to consider that various modules can influence results when used in different versions. Some techniques were suggested, from a simple .yml file to Docker for handling this issue.
+Social coding was another interesting topic, particularly relevant when publishing the results. We use a variety of open-source and licensed tools to develop a program, and it is important to care about the publishers' rights and properly cite them when needed.
+
+**Day5**
+
+Producing documentation is always a part of software development. Today, instructors introduced best practices and presented Sphinx as a tool for generating interactive documentation linked to the source code. The afternoon session covered responsible use of AI. With some exercises, I could understand the three levels of AI utilization and how to select the correct level based on the project demands, considering required security, precision, and risks.
 
 Day6
